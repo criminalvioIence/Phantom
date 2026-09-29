@@ -2,9 +2,9 @@
   "name": "Phantom",
   "short_name": "Phantom",
   "description": "Phantom — a learning recreation (TEST demo).",
-  "start_url": "/",
-  "scope": "/",
-  "display": "standalone",
+"start_url": "/Phantom/",
+"scope": "/Phantom/",
+"display": "standalone"
   "display_override": [
     "fullscreen",
     "standalone",
